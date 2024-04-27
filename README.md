@@ -1,6 +1,6 @@
 ### Simon Frost
 
-Welcome
+Welcome. Check out some of my public projects I've worked on recently, most code heavy stuff is private.
 
 <!--
 **SimonHFrost/simonhfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
