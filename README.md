@@ -1,6 +1,8 @@
 ### Simon Frost
 
-Welcome. Check out some of my public projects I've worked on recently, most code heavy stuff is private.
+Welcome ✨. Check out the public projects I've worked on recently. Mainly JS, CSS, some php, some flutter.
+
+Most code heavy stuff is private. Don't scroll down too far because there be skellingtons ☠️.
 
 <!--
 **SimonHFrost/simonhfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
