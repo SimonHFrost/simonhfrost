@@ -1,8 +1,8 @@
 ### Simon Frost
 
-🧑‍💻 Frontend Engineer 
+🧑‍💻 Product Engineer (full-stack)
 Interested in LLMs, design, and community.
 
-Check out the public projects I've worked on recently. Mainly TypeScript React and Tailwind
+Recent focuses have been TypeScript, React, and Tailwind
 
 Most code heavy stuff is private. Don't scroll down too far, it gets scary 😱
