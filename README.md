@@ -3,7 +3,7 @@
 🧑‍💻 Product Engineer (full-stack)
 Interested in LLMs, design, and community.
 
-Recent focuses have been TypeScript, React, and Tailwind.
+🗣️ TypeScript, React, React Native, and Tailwind.
 
 Building:
 * 🏋️‍♀️ MellowFit
