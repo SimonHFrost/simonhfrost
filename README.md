@@ -1,6 +1,7 @@
 ### Simon Frost
 
 🧑‍💻 Freelance Full Stack Engineer
+
 Interested in AI, design, and community.
 
 🗣️ TypeScript, React, React Native, and Tailwind.
