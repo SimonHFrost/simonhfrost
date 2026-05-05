@@ -1,9 +1,7 @@
 ### Simon Frost
 
-🧑‍💻 Freelance Full Stack Engineer
+🧑‍💻 Full-Stack Agentic Engineer
 
-Interested in AI, design, and community.
-
-🗣️ TypeScript, React, React Native, and Tailwind.
+Full Stack Agentic (Opus/Codex) Engineer. 15 years building web and mobile apps in Legal, Aerospace, Consumer, and Fintech industries. Doing whatever it takes to ship while focusing on users.
 
 Most code heavy stuff is private. Don't scroll down too far, it gets scary 😱
